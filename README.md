@@ -65,7 +65,7 @@ let yero = Developer {
 </div>
 
 <p align="center">
-    <img src="https://github-readme-stats-i2wclk78p-yeros-projects-fc94fe21.vercel.app/api/top-langs/?username=yba01&theme=dark&layout=compact&count_private=true" />
+    <img src="https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=yba01&theme=dark&layout=compact&count_private=true" />
 </p>
 
 ---
