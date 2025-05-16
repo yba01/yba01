@@ -1,6 +1,5 @@
 ## 🌟 About Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="280" alt="Coding gif"/>
 
 Hi! I'm **Yéro BA**, a passionate **Full-Stack Developer**, aspiring **SysAdmin**, and **Cybersecurity Explorer** from **Senegal 🇸🇳**.
 
