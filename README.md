@@ -7,7 +7,7 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Y%C3%A9ro+BA+or+Mr.404+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" /></a>
 </h1>
- ###A passionate **Full-Stack Developer**, aspiring **SysAdmin**, and **Cybersecurity Explorer**.
+<!--  ###A passionate **Full-Stack Developer**, aspiring **SysAdmin**, and **Cybersecurity Explorer**.
 
 I'm driven by a love of :
 -*clean code*
@@ -22,6 +22,24 @@ I'm driven by a love of :
 -*Spring Boot*
 -*Angular*
 I'm currently diving deep into **functional programming** and **Linux system administration**. I'm also passionate about building solutions that empower communities — from flood resilience tech to educational platforms.
+ -->
+### 👨‍💻 Full-Stack Developer | 🖥️ Aspiring SysAdmin | 🛡️ Cybersecurity Explorer
+
+Driven by a passion for:
+- ✨ Clean, maintainable code  
+- ⚙️ System-level optimization  
+- 🛡️ Ethical hacking  
+- 🌍 Building impactful software
+
+**🧰 Tech Toolbox:**  
+Rust • Go • Java • JavaScript • Spring Boot • Angular
+
+**🚀 Currently diving deep into:**  
+- Functional programming  
+- Linux system administration
+
+**💡 Mission:**  
+Building solutions that empower communities — from flood resilience tech to educational platforms.
 
 ```rust
 let yero = Developer {
