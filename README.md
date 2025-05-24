@@ -2,7 +2,7 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/yba01/count.svg" alt="Visitor's Count" />
 </div>
-<img src="https://github.com/yba01/yba01/banner.png" alt="Banner of dev joke...">
+<img src="https://github.com/yba01/yba01/banner.jpg" alt="Banner of dev joke...">
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Y%C3%A9ro+BA+or+Mr.404+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" /></a>
