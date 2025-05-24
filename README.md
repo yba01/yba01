@@ -6,40 +6,29 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Y%C3%A9ro+BA+or+Mr.404+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" /></a>
-</h1>
-<!--  ###A passionate **Full-Stack Developer**, aspiring **SysAdmin**, and **Cybersecurity Explorer**.
+<h3>👨‍💻 Full-Stack Developer | 🖥️ Aspiring SysAdmin | 🛡️ Cybersecurity Explorer</h3>
 
-I'm driven by a love of :
--*clean code*
--*system-level optimization*
--*ethical hacking*
--*impactful software*
- My toolbox includes :
--*Rust*, 
--*Go*
--*Java*
--*JavaScript*
--*Spring Boot*
--*Angular*
-I'm currently diving deep into **functional programming** and **Linux system administration**. I'm also passionate about building solutions that empower communities — from flood resilience tech to educational platforms.
- -->
-### 👨‍💻 Full-Stack Developer | 🖥️ Aspiring SysAdmin | 🛡️ Cybersecurity Explorer
+<p><strong>Driven by a passion for:</strong></p>
+<ul>
+  <li>✨ Clean, maintainable code</li>
+  <li>⚙️ System-level optimization</li>
+  <li>🛡️ Ethical hacking</li>
+  <li>🌍 Building impactful software</li>
+</ul>
 
-Driven by a passion for:
-- ✨ Clean, maintainable code  
-- ⚙️ System-level optimization  
-- 🛡️ Ethical hacking  
-- 🌍 Building impactful software
-
-**🧰 Tech Toolbox:**  
+<p><strong>🧰 Tech Toolbox:</strong><br>
 Rust • Go • Java • JavaScript • Spring Boot • Angular
+</p>
 
-**🚀 Currently diving deep into:**  
-- Functional programming  
-- Linux system administration
+<p><strong>🚀 Currently diving deep into:</strong></p>
+<ul>
+  <li>Functional programming</li>
+  <li>Linux system administration</li>
+</ul>
 
-**💡 Mission:**  
+<p><strong>💡 Mission:</strong><br>
 Building solutions that empower communities — from flood resilience tech to educational platforms.
+</p>
 
 ```rust
 let yero = Developer {
