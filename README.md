@@ -139,7 +139,6 @@ let yero = Developer {
 </div>
 
 
----
 
 ## 🌍 Languages
 
@@ -147,7 +146,6 @@ let yero = Developer {
   <img src="https://img.shields.io/badge/🇫🇷_French-Native-0055A4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🇺🇸_English-C2_Advanced-DC143C?style=for-the-badge" />
 </div>
----
 
 ## ✨ Daily Inspiration
 
