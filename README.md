@@ -123,7 +123,7 @@ let yero = Developer {
 <p><strong>Full-Stack Developer</strong> | 2023 - Present</p>
 <br>
 <p align="left">
-✅ Fast learner, highly adaptable, and able to master new technologies in a short time
+✅ Fast learner, highly adaptable, and able to master new technologies in a short time<br>
 ✅ Developing dynamic web applications with React, Angular and Next.js<br>
 ✅ Creating REST APIs with Java Spring Boot and Node.js<br>
 ✅ Working with Agile methodology and teamwork<br>
