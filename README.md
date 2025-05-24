@@ -1,16 +1,35 @@
-## 🌟 About Me
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/yba01/count.svg" alt="Visitor's Count" />
+</div>
+<img src="https://github.com/yba01/yba01/blob/main/banner.png" alt="Banner of dev joke...">
 
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Y%C3%A9ro+BA+or+Mr.404+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" /></a>
+</h1>
+ ### A passionate **Full-Stack Developer**, aspiring **SysAdmin**, and **Cybersecurity Explorer**.
 
-Hi! I'm **Yéro BA**, a passionate **Full-Stack Developer**, aspiring **SysAdmin**, and **Cybersecurity Explorer** from **Senegal 🇸🇳**.
-
-I'm driven by a love of clean code, system-level optimization, ethical hacking, and impactful software. My toolbox includes **Rust**, **Go**, **JavaScript**, and **Spring Boot**, and I'm currently diving deep into **functional programming** and **Linux system administration**. I'm also passionate about building solutions that empower communities — from flood resilience tech to educational platforms.
+I'm driven by a love of :
+-*clean code*
+-*system-level optimization*
+-*ethical hacking*
+-*impactful software*
+ My toolbox includes :
+-*Rust*, 
+-*Go*
+-*Java*
+-*JavaScript*
+-*Spring Boot*
+-*Angular*
+I'm currently diving deep into **functional programming** and **Linux system administration**. I'm also passionate about building solutions that empower communities — from flood resilience tech to educational platforms.
 
 ```rust
 let yero = Developer {
     role: "Full-Stack Dev & SysAdmin Enthusiast",
     location: "Senegal 🇸🇳",
-    tech_stack: ["Rust", "Go", "JavaScript", "Spring Boot"],
+    tech_stack: ["Rust", "Go", "JavaScript","Java", "Spring Boot", "Angular"],
     interests: [
+        "Web developement",
         "Cybersecurity",
         "System Programming",
         "Functional Programming",
@@ -19,6 +38,14 @@ let yero = Developer {
     motto: "Build for impact. Learn without limits. 🌍"
 };
 ```
+<div align="center">
+  <a href="mailto:byero0470@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yero-b%C3%A2-62193323a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -62,6 +89,7 @@ let yero = Developer {
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yba01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yba01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=yba01&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Yero's Most Used Languages" />
 </div>
 
 <p align="center">
@@ -87,6 +115,7 @@ let yero = Developer {
 <p><strong>Full-Stack Developer</strong> | 2023 - Present</p>
 <br>
 <p align="left">
+✅ Fast learner, highly adaptable, and able to master new technologies in a short time
 ✅ Developing dynamic web applications with React, Angular and Next.js<br>
 ✅ Creating REST APIs with Java Spring Boot and Node.js<br>
 ✅ Working with Agile methodology and teamwork<br>
@@ -110,20 +139,6 @@ let yero = Developer {
   <img src="https://img.shields.io/badge/🇫🇷_French-Native-0055A4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🇺🇸_English-C2_Advanced-DC143C?style=for-the-badge" />
 </div>
-
----
-
-## 📱 Contact
-
-<div align="center">
-  <a href="mailto:byero0470@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yero-b%C3%A2-62193323a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
 ---
 
 ## ✨ Daily Inspiration
@@ -132,8 +147,3 @@ let yero = Developer {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yba01&color=0e75b6&style=for-the-badge&label=VISITORS" alt="Visitor count" />
-</div>
