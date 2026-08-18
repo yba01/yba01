@@ -1,4 +1,6 @@
-## Hi, I'm Yero BA 👋🏾
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yero+BA+%F0%9F%91%8B%F0%9F%8F%BE;Data+Analyst;Machine+Learning+Learner;Building+AI+Solutions" />
+</p>
 
 <h3 align="center">
  Data Analyst •  Machine Learning Learner • 🇸🇳 Senegal
