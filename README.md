@@ -1,6 +1,5 @@
 # Data Analyst orienté Machine Learning
 
-```markdown
 <h1 align="center">Hi, I'm Yero BA 👋🏾</h1>
 
 <h3 align="center">
@@ -140,4 +139,3 @@ I'm looking for opportunities in:
 - Remote collaborations
 
 Always learning. Always building.
-```
