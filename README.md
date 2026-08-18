@@ -1,7 +1,7 @@
-# Hi, I'm Yero BA 👋🏾
+## Hi, I'm Yero BA 👋🏾
 
 <h3 align="center">
-📊 Data Analyst • 🤖 Machine Learning Learner • 🇸🇳 Senegal
+ Data Analyst •  Machine Learning Learner • 🇸🇳 Senegal
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Turning data into insights, models into solutions, and ideas into products.
 </p>
 
 
-## 🚀 About Me
+### About Me
 
 I'm a **Data Analyst transitioning into Machine Learning**, currently training at **Orange Digital Center Senegal**.
 
@@ -20,16 +20,16 @@ Today, I'm combining that engineering background with **statistics, data analysi
 > *The best model isn't the most sophisticated one. It's the one that solves the problem.*
 
 
-## 🔭 Current Focus
+###  Current Focus
 
-* 📊 Exploratory Data Analysis
-* 📈 Statistical Modeling
-* 🤖 Machine Learning
-* ⚙️ Feature Engineering
-* 🧪 Model Evaluation
-* 🚀 MLOps Fundamentals
+* Exploratory Data Analysis
+* Statistical Modeling
+* Machine Learning
+* Feature Engineering
+* Model Evaluation
+* MLOps Fundamentals
 
-## 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
 
@@ -55,7 +55,7 @@ Today, I'm combining that engineering background with **statistics, data analysi
 
 </p>
 
-## 📚 Currently Learning
+### Currently Learning
 
 ```text
 ✓ Exploratory Data Analysis
@@ -67,35 +67,35 @@ Today, I'm combining that engineering background with **statistics, data analysi
 ✓ MLOps
 ```
 
-## 📂 Featured Projects
+### Featured Projects
 
-### 📊 Data Analysis
+#### Data Analysis
 
 * Exploratory Data Analysis
 * Statistical Analysis
 * Data Cleaning and Transformation
 
-### 🤖 Machine Learning
+#### Machine Learning
 
 * Classification Models
 * Predictive Modeling
 * Feature Engineering
 
-### 📈 Data Visualization
+#### Data Visualization
 
 * Dashboards
 * Data Storytelling
 * Interactive Visualizations
 
-### 🐳 Data Engineering
+#### Data Engineering
 
 * ELK Stack Monitoring
 * Data Pipelines
 * Database Management
 
-## 💼 Professional Experience
+### Professional Experience
 
-### Full-Stack Developer | Zone01 Dakar (2023–2025)
+#### Full-Stack Developer | Zone01 Dakar (2023–2025)
 
 My software engineering experience taught me how to:
 
@@ -108,13 +108,13 @@ My software engineering experience taught me how to:
 These engineering skills now help me approach data projects with a broader perspective.
 
 
-## 🌍 Languages
+### Languages
 
 * 🇫🇷 French
 * 🇬🇧 English
 
 
-## 🎯 Open To
+### Open To
 
 * Data Analyst Internships
 * Junior Data Analyst Roles
