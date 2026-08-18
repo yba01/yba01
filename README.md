@@ -1,111 +1,128 @@
-# Data Analyst orienté Machine Learning
-
-<h1 align="center">Hi, I'm Yero BA 👋🏾</h1>
+# Hi, I'm Yero BA 👋🏾
 
 <h3 align="center">
-📊 Data Analyst | 🤖 Machine Learning Learner | 🇸🇳 Senegal
+📊 Data Analyst • 🤖 Machine Learning Learner • 🇸🇳 Senegal
 </h3>
 
 <p align="center">
-Transforming data into actionable insights and building intelligent solutions.
+Turning data into insights, models into solutions, and ideas into products.
 </p>
 
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a Data Analyst and Machine Learning learner currently training at Orange Digital Center.
+I'm a **Data Analyst transitioning into Machine Learning**, currently training at **Orange Digital Center Senegal**.
 
-My background in software development allows me to approach data projects from both analytical and engineering perspectives.
+My journey started in **software development**, where I learned how to design applications, build APIs, work with databases, and develop scalable systems.
 
-My philosophy is simple:
+Today, I'm combining that engineering background with **statistics, data analysis, and machine learning** to build data-driven solutions.
 
-> The best model isn't the most sophisticated one. It's the one that solves the problem.
-
-I'm particularly interested in:
-
-- 📊 Data analysis and visualization
-- 🤖 Machine learning
-- 📈 Predictive modeling
-- 🗄️ Data engineering fundamentals
-- 🧮 Statistics and mathematics
-- 🌍 AI for social impact
+> *The best model isn't the most sophisticated one. It's the one that solves the problem.*
 
 
-## 🎯 What I'm Currently Learning
+## 🔭 Current Focus
 
-- Exploratory Data Analysis (EDA)
-- Statistical modeling
-- Supervised learning
-- Unsupervised learning
-- Feature engineering
-- Model evaluation
-- MLOps fundamentals
+* 📊 Exploratory Data Analysis
+* 📈 Statistical Modeling
+* 🤖 Machine Learning
+* ⚙️ Feature Engineering
+* 🧪 Model Evaluation
+* 🚀 MLOps Fundamentals
 
-
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
 </p>
 
-## 🚀 Featured Projects
+## 📚 Currently Learning
 
-- 📊 Exploratory Data Analysis
-- 🤖 Machine Learning
-- 📈 Data Visualization
-- 🐳 ELK Stack Monitoring
-- 🎓 Educational Analytics
+```text
+✓ Exploratory Data Analysis
+✓ Statistical Learning
+✓ Supervised Learning
+✓ Unsupervised Learning
+✓ Feature Engineering
+✓ Model Evaluation
+✓ MLOps
+```
 
----
+## 📂 Featured Projects
 
-## 💼 Professional Background
+### 📊 Data Analysis
 
-**Full-Stack Developer | Zone01 Dakar (2023–2025)**
+* Exploratory Data Analysis
+* Statistical Analysis
+* Data Cleaning and Transformation
 
-My experience in software development taught me to:
+### 🤖 Machine Learning
 
-- Design complete applications
-- Develop APIs
-- Work with databases
-- Build scalable solutions
-- Learn new technologies quickly
+* Classification Models
+* Predictive Modeling
+* Feature Engineering
 
-Today, I'm applying these skills to the data ecosystem.
+### 📈 Data Visualization
 
----
+* Dashboards
+* Data Storytelling
+* Interactive Visualizations
+
+### 🐳 Data Engineering
+
+* ELK Stack Monitoring
+* Data Pipelines
+* Database Management
+
+## 💼 Professional Experience
+
+### Full-Stack Developer | Zone01 Dakar (2023–2025)
+
+My software engineering experience taught me how to:
+
+* Build complete applications
+* Develop REST APIs
+* Design databases
+* Work with Agile methodologies
+* Deploy containerized applications
+
+These engineering skills now help me approach data projects with a broader perspective.
+
 
 ## 🌍 Languages
 
-- 🇫🇷 French
-- 🇺🇸 English
+* 🇫🇷 French
+* 🇬🇧 English
 
----
 
-## 📫 Let's Connect
+## 🎯 Open To
 
-- LinkedIn
-- GitHub
-- Email
+* Data Analyst Internships
+* Junior Data Analyst Roles
+* Machine Learning Internships
+* AI Projects
+* Open-Source Collaborations
 
----
 
-## 🎯 Career Objective
-
-I'm looking for opportunities in:
-
-- Data Analysis
-- Machine Learning
-- AI Engineering internships
-- Junior Data roles
-- Remote collaborations
-
-Always learning. Always building.
+<p align="center">
+<strong>Always learning • Always building • Always improving</strong>
+</p>
